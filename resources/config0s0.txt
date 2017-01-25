@@ -1,0 +1,5 @@
+algorithm = Fuzzy Rule Learning, Wang-Mendel Algorithm
+inputData = "/Users/Javi/development/WangMendelAlgorithm/resources/machineCPU/machineCPU-1-1tra.dat" "/Users/Javi/development/WangMendelAlgorithm/resources/machineCPU/machineCPU-1-1tra.dat" "/Users/Javi/development/WangMendelAlgorithm/resources/machineCPU/machineCPU-1-1tst.dat"
+outputData = "/Users/Javi/development/WangMendelAlgorithm/resources/result0.tra" "/Users/Javi/development/WangMendelAlgorithm/resources/result0.tst" "/Users/Javi/development/WangMendelAlgorithm/resources/result0e0.txt" "/Users/Javi/development/WangMendelAlgorithm/resources/result0e1.txt"
+
+NumLabels = 5
