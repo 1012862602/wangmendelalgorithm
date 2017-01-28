@@ -1,8 +1,10 @@
-package com.jmartinez;
+package com.jmartinez.Keel.Fuzzy_Rule_Learning.Algorithms;
 
 
+import com.jmartinez.Keel.Shared.Parsing.*;
+import com.jmartinez.Keel.Fuzzy_Rule_Learning.Shared.*;
 import java.io.*;
-
+import core.*;
 
 /**
  * <p>
@@ -24,8 +26,7 @@ import java.io.*;
  */
 public class ClassifierFuzzyWangMendel {
 
-    //The Randomize object used in this class
-    static Randomize rand;
+
     //The best suite rules
     private static long [] reglas;
     //The number of best suite rules
